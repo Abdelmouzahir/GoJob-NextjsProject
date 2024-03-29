@@ -11,7 +11,7 @@ const JobCategory = () => {
         <div className='w-[80%] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-[4rem] gap-[3rem] items-center'>
             <JobCard image="/images/icon1.png"  category="Finance" openPosition = "23"/>
             <JobCard image="/images/icon2.png"  category="Digital Marketing" openPosition = "15"/>
-            <JobCard image="/images/icon3.png"  category="UI/UX Designe" openPosition = "10"/>
+            <JobCard image="/images/icon3.png"  category="UI/UX Design" openPosition = "10"/>
             <JobCard image="/images/icon4.png"  category="App Developement" openPosition = "5"/>
             <JobCard image="/images/icon5.png"  category="Human Resources" openPosition = "20"/>
             <JobCard image="/images/icon6.png"  category="Automotive Jobs" openPosition = "8"/>

@@ -11,7 +11,7 @@ const Footer = () => {
             <h1 className='text-[24px] text-white mb-[1rem] font-bold uppercase'> GoJob </h1>
             <p className=' text-[14px] text-white text-opacity-70' >
              The world first and largest specialized talent solutions website
-             connects opportunities at great companies with highly skilled job seekers`&rsquo;`
+             connects opportunities at great companies with highly skilled job seekers
             </p>
             {/* social media icons*/}
             <div className='flex items-center space-x-3 mt-[1.5rem]'>

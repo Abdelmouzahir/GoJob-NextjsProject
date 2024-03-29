@@ -4,6 +4,7 @@ import "./globals.css";
 import Nav from "./components/nav";
 import ClientProvider from "./components/Hoc/ClientProvider";
 import Footer from "./components/Footer";
+import ScrollTop from "./components/ScrollTop";
 
 const font = Plus_Jakarta_Sans({ 
   weight:['200', '300', '400','500', '600', '700', '800'],
@@ -27,6 +28,7 @@ export default function RootLayout({
         <Nav />
         {children}
         <Footer />
+        <ScrollTop />
       </body>
     </html>
     </ClientProvider>

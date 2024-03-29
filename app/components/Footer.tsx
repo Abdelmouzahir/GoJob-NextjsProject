@@ -32,10 +32,33 @@ const Footer = () => {
                 <FaInstagram  className='text-white'/>
                </div>  
             </div>
-            {/* 2nd part of footer*/}
           </div>
+          {/* 2nd part of footer*/}
+             <div>
+                 <h1 className=' text-[22px] w-fit text-white font-semibold mb-[1.5rem]' >About US</h1>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >Job</p>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >Privacy</p>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >Policy</p>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >Application</p>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >Candidates</p>
+            </div>
+            {/* 3nd part of footer*/}
+            <div>
+                 <h1 className=' text-[22px] w-fit text-white font-semibold mb-[1.5rem]' >Quick Links</h1>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >All Jobs</p>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >How to Apply</p>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >Job Fair</p>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >Resume</p>
+            </div>
+               {/* 4th part of footer*/}
+               <div>
+                 <h1 className=' text-[22px] w-fit text-white font-semibold mb-[1.5rem]' >Get In Touch </h1>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >+0123456789</p>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >example@eample.com</p>
+                 <p className=' text-[15px] text-white w-fit hover:text-yellow-300 cursor-pointer text-opacity-30 mb-[0.7rem] ' >Abdel Mouzahir</p>
+            </div>
         </div>
-
+        <h1 className=' mt-[2rem] text-[14px] w-[80%] mx-auto text-white opacity-50'>COPYRIGHT BY ABDEL JALIL MOUZAHIR © 2024</h1>
     </div>
   )
 }

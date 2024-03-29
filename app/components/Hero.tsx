@@ -13,11 +13,11 @@ const Hero = () => {
                <div>
                  {/* content*/}
                 <h1 className='text-[28px] sm:text-[35px] lg:text-[45px] xl:text-[60px] text-[#05264e] leading-[3rem] lg:leading-[4rem] font-extrabold'>
-                    The <span className='text-blue-500'> Easiest Way</span> <br/> to Find Your Next Job`&rsquo;`
+                    The <span className='text-blue-500'> Easiest Way</span> <br/> to Find Your Next Job
                 </h1>
                 <p className='text-[#4f5e64] text-[16px] md:text-[18px] mt-[1rem]'>
-                Our website connects you with a world of bite-sized gigs that fit your schedule and skillset`&rsquo;`
-                Need a quick win? Get matched with local micro-tasks that pay cash`&rsquo;` Its flexible work on your schedule`&rsquo;`
+                Our website connects you with a world of bite-sized gigs that fit your schedule and skillset
+                Need a quick win? Get matched with local micro-tasks that pay cash Its flexible work on your schedule
                 </p>
                 {/* searchBox*/}
                 <div className='mt-[1.5rem]'>

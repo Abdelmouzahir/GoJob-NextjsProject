@@ -32,17 +32,17 @@ const JobDetails = async({params}:{ params:{id:string}}) => {
       <div className='mt-16 w-[80%] mx-auto'>
         <h1 className='text-[20px] font-semibold'>Job Description</h1>
         <p className=' mt-4 text-black text-opacity-70'>
-         Are you organized`&lsquo;` detail-oriented`&lsquo;` and passionate about supporting the smooth operation of a dynamic team? Our company`&rsquo;
-         is seeking an Operations Coordinator to join our team`&rsquo; In this role`&lsquo; you will play a pivotal role in coordinating administrative tasks`&lsquo; 
-        facilitating communication`&lsquo; and optimizing processes to ensure efficiency and productivity across various departments`&rsquo;
+         Are you organized detail-oriented and passionate about supporting the smooth operation of a dynamic team? Our company
+         is seeking an Operations Coordinator to join our team In this role you will play a pivotal role in coordinating administrative tasks
+        facilitating communication and optimizing processes to ensure efficiency and productivity across various departments 
         </p>
         <h1 className='text-[20px]  mt-8 font-semibold'>Responsibilities</h1>
         <p className=' mt-4 text-black text-opacity-70'>
-          Your role will be pivotal in ensuring the smooth functioning of our operations. You will be responsible for managing a variety of administrative tasks`&lsquo; 
-         including scheduling meetings handling correspondence and maintaining documentation`&rsquo; Your communication skills will be essential as you coordinate both
-         internal and external communications`&lsquo; ensuring that information is disseminated accurately and in a timely manner`&rsquo; Additionally`&lsquo; you will play a key role in project coordination and tracking`&rsquo; 
-         collaborating with team members to ensure that project milestones are met`&rsquo; Your support in HR functions`&lsquo; such as onboarding new hires and organizing training sessions`&lsquo; will contribute to
-          the growth and development of our team`&rsquo;
+          Your role will be pivotal in ensuring the smooth functioning of our operations. You will be responsible for managing a variety of administrative tasks 
+         including scheduling meetings handling correspondence and maintaining documentation  Your communication skills will be essential as you coordinate both
+         internal and external communications ensuring that information is disseminated accurately and in a timely manner  Additionally you will play a key role in project coordination and tracking  
+         collaborating with team members to ensure that project milestones are met  Your support in HR functions such as onboarding new hires and organizing training sessions will contribute to
+          the growth and development of our team 
         </p>
         <h1 className='text-[20px] mt-8 font-semibold'>Skills</h1>
          <ul className='mt-4'>

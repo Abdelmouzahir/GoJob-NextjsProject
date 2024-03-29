@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <h1 className='text-[24px] text-white mb-[1rem] font-bold uppercase'> GoJob </h1>
             <p className=' text-[14px] text-white text-opacity-70' >
-             The world’s first and largest specialized talent solutions website,
+             The world first and largest specialized talent solutions website,
              connects opportunities at great companies with highly skilled job seekers.
             </p>
             {/* social media icons*/}

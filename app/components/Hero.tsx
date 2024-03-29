@@ -17,7 +17,7 @@ const Hero = () => {
                 </h1>
                 <p className='text-[#4f5e64] text-[16px] md:text-[18px] mt-[1rem]'>
                 Our website connects you with a world of bite-sized gigs that fit your schedule and skillset.
-                Need a quick win? Get matched with local micro-tasks that pay cash. It's flexible work on your schedule.
+                Need a quick win? Get matched with local micro-tasks that pay cash. Its flexible work on your schedule.
                 </p>
                 {/* searchBox*/}
                 <div className='mt-[1.5rem]'>

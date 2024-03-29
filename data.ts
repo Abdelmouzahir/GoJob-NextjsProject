@@ -21,7 +21,7 @@ export interface Job {
       title: "DevOps Engineer",
       image: "/images/c2.png",
       salary: "35k - 40k",
-      location: "Pakistan",
+      location: "Ottawa, ON",
       jobtype: "full time",
     },
     {
@@ -29,7 +29,7 @@ export interface Job {
       title: "Fronetend Engineer",
       image: "/images/c3.png",
       salary: "45k - 50k",
-      location: "Kolkata,India",
+      location: "Calgary,Canada",
       jobtype: "full time",
     },
     {
